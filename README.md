@@ -26,3 +26,33 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
     <img src="https://img.shields.io/badge/TikTok-333333?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a> 
 </div>
+
+<hr/>
+
+<h2 align="center"> 👩🏽‍💻TECH STACK👩🏽‍💻 </h2>
+<br/>
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,html,css,c,github,vscode" />
+    </a>
+<hr/>
+<h3 align="center"> IN PROGRESS👾 </h3>
+<br/>
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java" /> <br>
+      <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,figma,git"/>
+    </a>
+</div>
+    
+<hr/>
+
+<div align="center"> 
+    <h2>🖇️Contributions🖇️</h2>
+    <br>
+    <img alt="snake eating contributions" src= "https://raw.githubusercontent.com/mompho/mompho/output/github-contribution-grid-snake.svg"/>
+    
+    <br/><br/><br/>
+</div>
+
+
