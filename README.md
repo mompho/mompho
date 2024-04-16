@@ -1,8 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mompho.mompho"/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤍;+I'm+Mo!;"/>
-</h1>
+<h1 align="center">Hi There! 🤍 I'm Mo!</h1>
 
 <h3 align="center">An aspiring software engineer</h3>
 
@@ -46,13 +43,13 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
 </div>
     
 <hr/>
-
-<div align="center"> 
-    <h2>🖇️Contributions🖇️</h2>
-    <br>
-    <img alt="snake eating contributions" src= "https://raw.githubusercontent.com/mompho/mompho/output/github-contribution-grid-snake.svg"/>
-    
-    <br/><br/><br/>
+<h2 align="center">📊STATS📊</h2>
+<br>
+<div align="center">
+    <img width=390 src="https://streak-stats.demolab.com/user=mompho&count_private=true&theme=react7border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://github-readme-stats-mompho.vercel.app/api?username=mompho&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10 alt="readme stats" />
+    <br/>
+    <img width=325 align ="center" src="https://github-readme-stats-mompho.vercel.app/api/top-langs/?username=mompho&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.57count_weight=0.57exclude_repo=github.readme-stats" alt="top langs"/>
 </div>
 
 
