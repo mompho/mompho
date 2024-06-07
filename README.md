@@ -18,7 +18,7 @@
   </a>
   <a href="https://www.linkedin.com/in/mpho-khoza-3a60512b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 ">
-    <img src="https://img.shields.io/badge/Linkden-333333?style=for-the-badge&logo=linkden&logoColor=red"/>
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=red"/>
 
 </div>
 
