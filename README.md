@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/mphokhza/">
     <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="[https://www.youtube.com/channel/UCrP-JXtVMkPs7ONRhxhmtfw](https://www.linkedin.com/in/mpho-khoza-3a60512b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )![image](https://github.com/mompho/mompho/assets/159666473/65826413-13a7-4adf-9c66-977005bb2652)
+  <a href="https://www.linkedin.com/in/mpho-khoza-3a60512b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 ">
     <img src="https://img.shields.io/badge/Linkden-333333?style=for-the-badge&logo=linkden&logoColor=red"/>
 
