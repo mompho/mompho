@@ -1,8 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mompho.mompho"/>
 <h1 align="center">Hi There!</h1>
 
-<h3 align="center">An aspiring software engineer</h3>
-
 <br/>
 
 <div align="center">
@@ -24,19 +22,19 @@
 
 <hr/>
 
-<h2 align="center"> 👩🏽‍💻TECH STACK👩🏽‍💻 </h2>
+<h2 align="center"> 👩🏽‍💻tech stack👩🏽‍💻 </h2>
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,github,vscode" />
+        <img src="https://skillicons.dev/icons?i=html,css" />
     </a>
 <hr/>
-<h3 align="center"> IN PROGRESS👾 </h3>
+<h3 align="center">👾currently in progress👾</h3>
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,c,java,python" /> <br>
-      <img src="https://skillicons.dev/icons?i=react,mysql,flask,figma,git"/>
+        <img src="https://skillicons.dev/icons?i=javascript,c,java,python" /> <br>
+      <img src="https://skillicons.dev/icons?i=react,mysql,flask,nodejs"/>
     </a>
 </div>
     
