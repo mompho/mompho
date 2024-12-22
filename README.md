@@ -33,8 +33,8 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,c,java,python" /> <br>
-      <img src="https://skillicons.dev/icons?i=react,mysql,flask,nodejs"/>
+        <img src="https://skillicons.dev/icons?i=javascript,php,wordpress,react" /> <br>
+      <img src="https://skillicons.dev/icons?i=nextjs,nodejs"/>
     </a>
 </div>
     
