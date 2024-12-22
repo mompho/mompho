@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mompho.mompho"/>
-<h1 align="center">Hi There!</h1>
+<h1 align="center"><i>Hi There!</i></h1>
 
 <br/>
 
