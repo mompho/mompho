@@ -22,14 +22,14 @@
 
 <hr/>
 
-<h2 align="center"> 👩🏽‍💻tech stack👩🏽‍💻 </h2>
+<h2 align="center"> <i>tech stack</i> </h2>
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css" />
     </a>
 <hr/>
-<h3 align="center">👾currently in progress👾</h3>
+<h3 align="center"><i>currently in progress</i></h3>
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
