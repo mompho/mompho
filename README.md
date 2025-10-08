@@ -23,14 +23,14 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css" />
+        <img src="https://skillicons.dev/icons?i=python" />
     </a>
 <hr/>
 <h3 align="center"><i>currently in progress</i></h3>
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,php,wordpress,react" /> <br>
+        <img src="https://skillicons.dev/icons?i=c++" /> <br>
       <img src="https://skillicons.dev/icons?i=nextjs,nodejs"/>
     </a>
 </div>
