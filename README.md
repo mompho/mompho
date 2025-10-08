@@ -31,7 +31,6 @@
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp" /> <br>
-      <img src="https://skillicons.dev/icons?i="/>
     </a>
 </div>
     
