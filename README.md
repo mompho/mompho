@@ -1,36 +1,46 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mompho.mompho"/>
-<h1 align="center"><i>Hi There!</i></h1>
-
-<br/>
-
-<div align="center">
-  
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=mompho&label=visitors&color=1e1630&style=flat" alt="visitors" />
 </div>
 
 <div align="center">
-  <a href="mailto:mpho.khoza29@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mpho-khoza-3a60512b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=red"/>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                 Hi There! I'm Mpho!                      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+*a CS student who builds things first and reads the docs second.*
+
+`// currently debugging life, one commit at a time`
+
+---
+
+*— correspondence & connexions —*
+
+[![Gmail](https://img.shields.io/badge/─────%20Gmail%20─────-110d1c?style=for-the-badge&logo=gmail&logoColor=b89fd4)](mailto:your@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/───%20LinkedIn%20───-110d1c?style=for-the-badge&logo=linkedin&logoColor=b89fd4)](https://linkedin.com)
+
+---
+
+### `§ I.` — *The Craft & The Canon*
+
+*tech stack*
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css&theme=dark" />
+
+---
+
+### `§ II.` — *Works in Progress*
+
+*currently in progress*
+
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />
+
+---
+
+*— finis —*
 
 </div>
-
-<hr/>
-
-<h2 align="center"> <i>tech stack</i> </h2>
-<br/>
-<div align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
-    </a>
-<hr/>
-<h3 align="center"><i>currently in progress</i></h3>
-<br/>
-<div align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java" /> <br>
-    </a>
-</div>
-    
