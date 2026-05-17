@@ -1,3 +1,8 @@
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=mompho&label=visitors&color=1e1630&style=flat" alt="visitors" />
+</div>
+<div align="center">
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=B89FD4&background=110D1C00&center=true&vCenter=true&width=500&height=100&lines=Hi+There!+I'm+Mpho!" alt="Hi There! I'm Mpho!" />
