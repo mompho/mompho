@@ -20,12 +20,12 @@
 
 *— correspondence & connexions —*
 
-[![Gmail](https://img.shields.io/badge/─────%20Gmail%20─────-110d1c?style=for-the-badge&logo=gmail&logoColor=b89fd4)](mailto:your@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/───%20LinkedIn%20───-110d1c?style=for-the-badge&logo=linkedin&logoColor=b89fd4)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/─────%20Gmail%20─────-110d1c?style=for-the-badge&logo=gmail&logoColor=b89fd4)](mailto:mpho.khoza29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/───%20LinkedIn%20───-110d1c?style=for-the-badge&logo=linkedin&logoColor=b89fd4)](https:mpho-khoza//linkedin.com)
 
 ---
 
-### `§ I.` — *The Craft & The Canon*
+### *The Craft & The Canon*
 
 *tech stack*
 
@@ -33,14 +33,12 @@
 
 ---
 
-### `§ II.` — *Works in Progress*
+### *Works in Progress*
 
 *currently in progress*
 
 <img src="https://skillicons.dev/icons?i=java&theme=dark" />
 
 ---
-
-*— finis —*
 
 </div>
