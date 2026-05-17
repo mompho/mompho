@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp" />
+        <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
     </a>
 <hr/>
 <h3 align="center"><i>currently in progress</i></h3>
